@@ -1,9 +1,9 @@
 version: "3"
 
 services:
-  strapi:
+  strapiexample:
     image: strapi/strapi
-    container_name: strapi
+    container_name: strapiexample
     restart: unless-stopped
     env_file: .env
     environment:
@@ -22,9 +22,9 @@ services:
     ports:
       - "1337:1337"
 
-  mongo:
+  mongoexample:
     image: mongo
-    container_name: mongo
+    container_name: mongoexample
     restart: unless-stopped
     env_file: .env
     environment:
@@ -39,7 +39,7 @@ services:
 
 networks:
   strapi-app-network:
-    driver: bridge·
+    driver: bridge
 
 volumes:
   strapidata:
