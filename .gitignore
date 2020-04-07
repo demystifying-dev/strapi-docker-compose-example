@@ -1,1 +1,16 @@
+# do not track sensitive data 
 .env
+
+# do not track complete strapi app
+app/README.md
+# go ahead and track generated api
+# app/api
+app/build
+app/config
+app/extensions
+app/favicon.ico
+app/node_modules
+# app/package.json
+app/public
+app/yarn.lock
+
