@@ -1,5 +1,9 @@
 # strapi docker compose example
 
+## Video
+
+[![strapi docker compose example](http://img.youtube.com/vi/8zJdKypCdQ/0.jpg)](https://youtu.be/8zJdKypCdQ)
+
 ## Ref
 
 - [Strapi installation docs. Installing using Docker](https://strapi.io/documentation/3.0.0-beta.x/installation/docker.html)
