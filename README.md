@@ -2,7 +2,7 @@
 
 ## Video
 
-[![strapi docker compose example](http://img.youtube.com/vi/8zJdKypCdQ/0.jpg)](https://youtu.be/8zJdKypCdQ)
+[![strapi docker compose example](http://img.youtube.com/vi/-8zJdKypCdQ/0.jpg)](https://youtu.be/-8zJdKypCdQ)
 
 ## Ref
 
